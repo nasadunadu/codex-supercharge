@@ -94,7 +94,7 @@
 你不需要手动去配置各种复杂的环境变量和后台常驻服务。整套方案已经封装为**机器可执行规范**。
 
 ### 部署步骤：
-1. 下载本文配套的 [`Codex-AI执行规范-2026-09-29.json`](#)（已完成严格脱敏，不含任何私人密钥）。
+1. 下载开源规范文件：[`Codex-AI执行规范-2026-09-29.json`](https://raw.githubusercontent.com/nasadunadu/codex-supercharge/main/Codex-AI%E6%89%A7%E8%A1%8C%E8%A7%84%E8%8C%83-2026-09-29.json)（或直接访问开源仓库：[nasadunadu/codex-supercharge](https://github.com/nasadunadu/codex-supercharge)）。
 2. 打开你的任意终端 AI 助手（如 OpenCode、Claude Code、Cursor、Windsurf 等），对它说：
    > **“请读取并在本地执行 `Codex-AI执行规范-2026-09-29.json`，帮我完成 Codex 增强配置。”**
 3. AI 会向你询问你的中转地址/Key 以及你拥有的模型 Key（DeepSeek/Gemini）。
